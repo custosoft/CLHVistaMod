@@ -41,3 +41,6 @@ or merge the regkey in the release zip as trusted installer.
 
 
 3. Take ownership of the file `Windows.UI.Logon.dll` and rename it to something else. Example: `Windows.UI.Logon.dll.bak`, this is required as it will force the use of the console logon screen.
+
+
+Thanks to **@wiktorwiktor12** for creating this project. 
